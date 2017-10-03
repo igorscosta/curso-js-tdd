@@ -1,0 +1,24 @@
+{
+  "name": "curso-js-tdd",
+  "version": "1.0.0",
+  "description": "Curso de JS com TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorscosta/curso-js-tdd.git"
+  },
+  "keywords": [
+    "JS",
+    "TDD",
+    "Curso"
+  ],
+  "author": "Igor Costa <igorsc93@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igorscosta/curso-js-tdd/issues"
+  },
+  "homepage": "https://github.com/igorscosta/curso-js-tdd#readme"
+}
